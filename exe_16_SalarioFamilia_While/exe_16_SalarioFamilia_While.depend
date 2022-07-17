@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657399214 source:c:\gabriel\c\exe_16_salariofamilia_while\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# ninja log v5
+3	4388	6797191128045270	Exe_05_autogen/timestamp	e8a03e21ede3a1fd
+3	4388	6797191128045270	Exe_05_autogen/mocs_compilation.cpp	e8a03e21ede3a1fd
+3	4388	6797191128045270	C:/Gabriel/C.C++/Qt/Exe_05/build-Exe_05-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Exe_05_autogen/timestamp	e8a03e21ede3a1fd
+3	4388	6797191128045270	C:/Gabriel/C.C++/Qt/Exe_05/build-Exe_05-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Exe_05_autogen/mocs_compilation.cpp	e8a03e21ede3a1fd
+4389	12384	6797191217514952	CMakeFiles/Exe_05.dir/Exe_05_autogen/mocs_compilation.cpp.obj	356610fe3e90ab5d
+4395	12400	6797191217694849	CMakeFiles/Exe_05.dir/main.cpp.obj	b9a1cc46c94e2dc3
+24	1049	6797191864206770	Exe_05_autogen/timestamp	e8a03e21ede3a1fd
+24	1049	6797191864206770	Exe_05_autogen/mocs_compilation.cpp	e8a03e21ede3a1fd
+24	1049	6797191864206770	C:/Gabriel/C.C++/Qt/Exe_05/build-Exe_05-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Exe_05_autogen/timestamp	e8a03e21ede3a1fd
+24	1049	6797191864206770	C:/Gabriel/C.C++/Qt/Exe_05/build-Exe_05-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Exe_05_autogen/mocs_compilation.cpp	e8a03e21ede3a1fd
+1084	6609	6797191919805576	CMakeFiles/Exe_05.dir/mainwindow.cpp.obj	2916d16a862983c
+6610	7042	6797191923823086	Exe_05.exe	ea09bc82e54730d

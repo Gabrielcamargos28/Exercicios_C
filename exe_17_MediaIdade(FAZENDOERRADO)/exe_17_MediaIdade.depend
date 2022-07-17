@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657401584 source:c:\gabriel\c\exe_17_mediaidade\main.c
+	<stdio.h>
+	<stdlib.h>
+

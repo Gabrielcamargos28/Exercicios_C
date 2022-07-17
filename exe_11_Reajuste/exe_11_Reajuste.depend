@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657337284 source:c:\gabriel\c\exe_11_reajuste\main.c
+	<stdio.h>
+	<stdlib.h>
+

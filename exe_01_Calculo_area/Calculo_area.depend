@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657161333 source:c:\gabriel\c\calculo_area\main.c
+	<stdio.h>
+	<stdlib.h>
+

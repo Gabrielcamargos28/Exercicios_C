@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657238725 source:c:\gabriel\c\exercicio_04_outraresolucao\main.c
+	<stdio.h>
+	<stdlib.h>
+

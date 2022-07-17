@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657342815 source:c:\gabriel\c\exe_atenegativo_while\main.c
+	<stdio.h>
+	<stdlib.h>
+

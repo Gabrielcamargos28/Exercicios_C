@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657830625 source:c:\gabriel\c\prog_cad\main.c
+	<stdio.h>
+	<stdlib.h>
+

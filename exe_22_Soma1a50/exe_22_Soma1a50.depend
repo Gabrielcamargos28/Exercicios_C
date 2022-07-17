@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657470588 source:c:\gabriel\c\exe_22_soma1a50\main.c
+	<stdio.h>
+	<stdlib.h>
+

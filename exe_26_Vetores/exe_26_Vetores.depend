@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657583933 source:c:\gabriel\c\exe_26_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+

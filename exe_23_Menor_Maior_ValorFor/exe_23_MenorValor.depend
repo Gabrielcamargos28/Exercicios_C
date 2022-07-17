@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1657493219 source:c:\gabriel\c\exe_23_menorvalorfor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1657494501 source:c:\gabriel\c\exe_23_menorvalorforerro\main.c
+	<stdio.h>
+	<stdlib.h>
+

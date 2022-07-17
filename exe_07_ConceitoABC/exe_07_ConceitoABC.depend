@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657321906 source:c:\gabriel\c\exe_07_conceitoabc\main.c
+	<stdio.h>
+	<stdlib.h>
+

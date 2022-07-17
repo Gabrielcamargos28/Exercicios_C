@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657340938 source:c:\gabriel\c\exe_13_media_dowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+

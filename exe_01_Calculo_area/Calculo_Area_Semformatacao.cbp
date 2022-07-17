@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void main()
+{
+    float comprimento, largura, soma;
+
+    printf("Digite o comprimento: ");
+    scanf("%f", &comprimento);
+    printf("Digite a largura: ");
+    scanf("%f", &largura);
+    soma = comprimento * largura;
+    printf("A area do quadrado e: %f", soma);
+
+
+    return 0;
+}

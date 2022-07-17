@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657496169 source:c:\gabriel\c\exe_25_menormaior_valor_do_while\main.c
+	<stdio.h>
+	<stdlib.h>
+

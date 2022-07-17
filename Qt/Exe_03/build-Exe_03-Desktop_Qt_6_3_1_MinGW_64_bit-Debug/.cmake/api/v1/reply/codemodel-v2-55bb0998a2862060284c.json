@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exe_03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exe_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exe_03-Debug-0aa711f8aa4ffda411ac.json",
+					"name" : "Exe_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exe_03_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exe_03_autogen-Debug-6f90df512aa52368199f.json",
+					"name" : "Exe_03_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exe_03_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exe_03_autogen_timestamp_deps-Debug-e4ccd2a404ffb01204a3.json",
+					"name" : "Exe_03_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Gabriel/C.C++/Qt/Exe_03/build-Exe_03-Desktop_Qt_6_3_1_MinGW_64_bit-Debug",
+		"source" : "C:/Gabriel/C.C++/Qt/Exe_03/Exe_03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

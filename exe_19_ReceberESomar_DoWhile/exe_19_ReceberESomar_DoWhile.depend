@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657403570 source:c:\gabriel\c\exe_19_receberesomar_dowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+

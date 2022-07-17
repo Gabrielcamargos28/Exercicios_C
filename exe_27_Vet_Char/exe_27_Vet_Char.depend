@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657669610 source:c:\gabriel\c\exe_27_vet_char\main.c
+	<stdio.h>
+	<stdlib.h>
+
