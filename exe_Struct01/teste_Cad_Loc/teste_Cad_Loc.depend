@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658858918 source:c:\gabriel\c.c++\exe_struct01\teste_cad_loc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

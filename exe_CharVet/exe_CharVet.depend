@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658191921 source:c:\gabriel\c.c++\exe_charvet\main.c
+	<stdio.h>
+	<stdlib.h>
+

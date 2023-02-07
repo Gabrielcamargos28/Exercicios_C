@@ -4,7 +4,7 @@
 
 char nome [SIZE][50];
 char email [SIZE][50];
-int cpf [SIZE];
+char cpf [SIZE];
 
 void Cadastro();
 void Pesquisar();
@@ -15,6 +15,8 @@ void Lista();
 void main()
 {
     Menu();
+
+    return 0;
 
 }
 
@@ -46,10 +48,16 @@ void Menu()
         case 3:
             Lista();
             break;
+        default:
+            break;
 
         }
     }
     while(escolha != 4);
+
+
+    printf("Fim programa");
+    return 0;
 
 }
 
@@ -90,7 +98,7 @@ void Pesquisar()
             {
                 if(cpf[i]==pesqCpf)
                 {
-                    printf("\nNome: %s\nEmail: %s\nCpf: d%",nome[i],email[i],cpf[i]);
+                    printf("\nNome: %s\nEmail: %s\nCpf: %d",nome[i],email[i],cpf[i]);
                 }
             }
             break;
